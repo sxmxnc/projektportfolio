@@ -9,6 +9,10 @@
 | [Workforce Analytics](https://github.com/sxmxnc/workforce-analytics) | Modellvergleich und Schwellenwertwahl im Jupyter-Notebook mit synthetischen Daten |
 | [Minecraft Agents](https://github.com/justus63/crazy-mc-agents) | Teamprojekt für Minecraft-Agenten. Meine Beiträge umfassen Live-Dashboard, macOS-Kompatibilität und Tests. |
 
+| [Bierverwaltung](https://github.com/sxmxnc/bierverwaltung-demo) | Digitale Strichliste, Getränkekasse und Bank-CSV-Abgleich |
+| [Neues Wochenblatt – Regional News Demo](https://github.com/sxmxnc/regional-news-flutter) | Zweisprachige Flutter-App mit fiktiven Artikeln |
+| [Fitness-App](https://github.com/sxmxnc/fitness-app) | Teamprojekt mit Training und Ernährungstagebuch. [Meine Beiträge](https://github.com/sxmxnc/fitness-app/blob/main/CONTRIBUTIONS.md) |
+
 ## Projektberichte
 
 - [Bierverwaltung](projekte/bierverwaltung.md) – digitale Strichliste mit Korrekturen und nachvollziehbaren Importen

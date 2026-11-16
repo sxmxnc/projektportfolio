@@ -1,5 +1,7 @@
 # Fitness-App
 
+[Quellcode und Startanleitung](https://github.com/sxmxnc/fitness-app) · [Autorenübersicht](https://github.com/sxmxnc/fitness-app/blob/main/CONTRIBUTIONS.md)
+
 Teamprojekt aus Web-Engineering und IT-Sicherheit. Die Webanwendung bündelt
 Trainingshistorie, Übungen, Ernährungseinträge und eine Dashboard-Übersicht.
 

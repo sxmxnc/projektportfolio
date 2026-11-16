@@ -1,5 +1,7 @@
 # Neues Wochenblatt
 
+[Quellcode und Startanleitung](https://github.com/sxmxnc/regional-news-flutter) für die anonymisierte, offline nutzbare Flutter-Demo.
+
 Eine Flutter-App für die deutsch- und polnischsprachige Regionalzeitung Neues
 Wochenblatt. Die App bündelt Artikel, Galerien, Suche und digitale Ausgaben für
 iOS und Android.

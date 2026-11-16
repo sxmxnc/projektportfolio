@@ -1,5 +1,7 @@
 # Bierverwaltung
 
+[Quellcode und Startanleitung](https://github.com/sxmxnc/bierverwaltung-demo)
+
 Die Anwendung digitalisiert die gemeinsame Strichliste eines Vereins. Grundlage
 war das Web-Engineering-Teamprojekt „Deckel 2.0“. Bei der Weiterentwicklung kamen
 Abläufe für den Thekenbetrieb und für die Übernahme vorhandener Listen hinzu.
